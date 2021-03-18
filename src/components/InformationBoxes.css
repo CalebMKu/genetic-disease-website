@@ -1,0 +1,32 @@
+.informationBoxes {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+}
+
+.information__box {
+    width: 60%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 30px auto;
+    padding: 30px;
+}
+
+.box__title {
+    padding-top: 10px;
+}
+
+.box__questions {
+    padding-top: 20px;
+}
+
+.line-break {
+    margin-top: 50px;
+    color: lightgrey;
+}
+
+.box__information {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
